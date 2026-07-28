@@ -1,0 +1,14 @@
+{
+  "event": "agent.message",
+  "message": {
+    "id": 42,
+    "text": "Меня зовут Анна, нужен лендинг для онлайн-школы",
+    "channel": "bitrix",
+    "context": {
+      "dialog_id": "chat-42",
+      "user_name": "Анна",
+      "portal": "demo.bitrix24.ru"
+    },
+    "attachments": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "event": "generation.complete",
+  "generation_id": 5811,
+  "task_id": "task_xxx",
+  "type": "video",
+  "model": "grok-itv-10",
+  "status": "complete",
+  "result_url": "https://cdn.example.invalid/result.mp4",
+  "result_urls": [
+    "https://cdn.example.invalid/result.mp4"
+  ],
+  "cost": 196.0,
+  "error_message": null,
+  "refunded": false,
+  "created_at": "2026-05-11T01:50:34+00:00",
+  "completed_at": "2026-05-11T01:54:12+00:00",
+  "attempt": 1
+}
