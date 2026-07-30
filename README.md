@@ -1,7 +1,5 @@
 # Vibe Lead Qualifier
 
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/spb.nazarik) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nazar_38rus)
-
 Vibe Lead Qualifier — FastAPI-сервис для автоматической квалификации входящих лидов через VibeMarketolog Agent API. Он собирает структурированный бриф из диалога и, когда данных достаточно, возвращает разрешённое CRM-действие `crm.deal.add` для Bitrix24.
 
 Это законченный демонстрационный MVP, а не production-ready система. Он показывает работу с REST API, подписанными webhook, локальной идемпотентностью обработки, SQLite, типизацией, ошибками и тестами без подключения сторонней LLM и без автоматических платных генераций.
