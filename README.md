@@ -382,3 +382,11 @@ Nginx, а прямой обход proxy исключён localhost binding. Дл
 4. Распределённый/application-level rate limiting, OpenTelemetry, метрики задержки/дублей и алерты.
 5. Шифрование PII, TTL/удаление диалогов и tenant-aware доступ.
 6. Поддержка официального delivery ID и timestamp, если они появятся в контракте Agent API.
+
+---
+
+## Naz AI Lab
+
+This project is part of [Naz AI Lab](https://naz-ai-lab.ru/) — the digital laboratory of [Nazar Zykov](https://naz-ai-lab.ru/creator/).
+
+[Official project page](https://naz-ai-lab.ru/projects/vibe-lead-qualifier/) · [All Naz AI Lab projects](https://naz-ai-lab.ru/projects/)
