@@ -389,4 +389,4 @@ Nginx, а прямой обход proxy исключён localhost binding. Дл
 
 This project is part of [Naz AI Lab](https://naz-ai-lab.ru/) — the digital laboratory of [Nazar Zykov](https://naz-ai-lab.ru/creator/).
 
-[Official project page](https://naz-ai-lab.ru/projects/vibe-lead-qualifier/) · [All Naz AI Lab projects](https://naz-ai-lab.ru/projects/)
+[Official project page](https://naz-ai-lab.ru/projects/vibe-lead-qualifier/) · [Verified case](https://naz-ai-lab.ru/cases/vibe-lead-qualifier/) · [All Naz AI Lab projects](https://naz-ai-lab.ru/projects/)
